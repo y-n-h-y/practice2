@@ -7,12 +7,12 @@
   width: 300px;
   height: 300px;
   padding: 30px;
-  background-color: #8B0000;
+  background-color: #992a2a;
 }
 
 .box1 .box2 {
   width: 100px;
   height: 100px;
-  background-color: #778899;
-  border: solid 3px #0148c2;
+  background-color: #afbece;
+  border: solid 3px #1a5ed3;
 }
